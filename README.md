@@ -1,2 +1,2 @@
-# Assignments done in Infosys Springboard Internship
+# Assignments
 ## 1) PC Recommender (Working with GroqCloud LLM API)
